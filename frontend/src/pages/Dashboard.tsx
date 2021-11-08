@@ -8,7 +8,7 @@ export default function Dashboard() {
   return (
     <>
       <Navbar />
-      <div className="content">
+      <div className="container">
         <h1 className="text-primary py-3">Dashboad de Vendas</h1>
 
         <div className="row">
